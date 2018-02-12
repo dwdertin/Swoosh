@@ -1,4 +1,4 @@
-package com.dev.dustindertinger.swoosh
+package com.dev.dustindertinger.swoosh.controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
